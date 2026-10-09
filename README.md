@@ -20,7 +20,6 @@ I build AI agents and automation workflows that help businesses save time and an
 | **E-commerce Customer Support Email Agent** | Reads customer emails and prepares accurate, polite replies | n8n · ChatGPT · Gmail |
 | **E-commerce Negotiation Chatbot Agent** | Negotiates with shoppers within store-defined price limits | n8n · ChatGPT |
 
-*(Add links to each repository here once they are uploaded.)*
 
 ## 🧰 Tools I Use
 
